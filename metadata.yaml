@@ -1,0 +1,38 @@
+_repo: The-Botanical-Magazine-Vol.-13Or-Flower-Garden-Displayed_43858
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43858-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Sims, John
+    alias: Sims, Joannes
+    birthdate: 1749
+    deathdate: 1831
+    gutenberg_agent_id: '42441'
+    url: http://www.gutenberg.org/2009/agents/42441
+    wikipedia: https://en.wikipedia.org/wiki/John_Sims_%28taxonomist%29
+  - agent_name: Curtis, William
+    alias: Curtis, W. (William)
+    birthdate: 1746
+    deathdate: 1799
+    gutenberg_agent_id: '7233'
+    url: http://www.gutenberg.org/2009/agents/7233
+    wikipedia: http://en.wikipedia.org/wiki/William_Curtis
+description: ''
+gutenberg_issued: '2013-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants, Ornamental -- Periodicals'
+- !lcsh 'Plants -- Periodicals'
+- !lcsh 'Plants, Cultivated -- Periodicals'
+- !lcsh 'Botanical illustration -- Periodicals'
+- !lcc 'QK'
+title: "The Botanical Magazine,  Vol. 13\r\nOr, Flower-Garden Displayed"
+url: http://www.gutenberg.org/ebooks/43858
